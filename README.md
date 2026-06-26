@@ -48,9 +48,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KbrPrmk&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KbrPrmk&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KbrPrmk&layout=compact&hide_border=true" alt="top languages" />
 </p>
 

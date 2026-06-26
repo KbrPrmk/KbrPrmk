@@ -43,38 +43,6 @@
 
 ---
 
-### 🚀 Featured ML Projects
-
-| Project | Description |
-|---|---|
-| [🩺 Heart Attack Prediction](https://github.com/KbrPrmk/heart-attack-prediction) | Logistic Regression pipeline predicting heart attack risk from clinical data — live Gradio demo on Hugging Face |
-| [💧 Water Quality Prediction](https://github.com/KbrPrmk/water-quality-prediction) | Decision Tree & Random Forest model predicting water potability — live Gradio demo on Hugging Face |
-| [🏺 Çatalhöyük Social Analysis](https://github.com/KbrPrmk/catalhoyuk-social-analysis) | ML analysis of social stratification at Neolithic Çatalhöyük using archaeological & isotopic data |
-| [🏦 Bank Marketing Prediction](https://github.com/KbrPrmk/bank-marketing-with-randomforest) | Random Forest model predicting term deposit subscription, deployed as an interactive demo |
-| [🚢 Titanic Survival Prediction](https://github.com/KbrPrmk/titanic-survival-prediction) | Classic classification project with full preprocessing & EDA workflow |
-| [🔬 PCOS Diagnosis Support (WIP)](https://github.com/KbrPrmk/ai-powered-decision-support-system-for-pcos-diagnosis) | XGBoost + transfer learning on ultrasound images, with SHAP/Grad-CAM explainability |
-
----
-
-### 🔌 IoT & Embedded Systems (Wokwi)
-
-| Project | Description |
-|---|---|
-| [📡 MQTT Broker – Node-RED Simulation](https://wokwi.com/projects/464392081577753601) | ESP32-based simulation streaming data through an MQTT broker into Node-RED |
-| [🦾 Robotik Kol Simülasyonu](https://wokwi.com/projects/463469626025223169) | Servo-controlled robotic arm simulation |
-| [📟 Temel IoT](https://wokwi.com/projects/461371419163577345) | Foundational ESP32/sensor IoT simulation |
-
----
-
-### 🧩 Other Projects
-
-- [Graph Algorithm Visualizer](https://github.com/KbrPrmk/graph-algorithm-visualizer) — Interactive Dijkstra/Bellman-Ford/Prim/Kruskal visualizer
-- [Compression Algorithm Visualizer](https://github.com/KbrPrmk/compression-algorithm-visualizer) — Huffman & LZW step-by-step visualizer
-- [WHere — Flutter App](https://github.com/KbrPrmk/WHere-flutter-app) — AI-powered cultural companion turning GPS coordinates into narrative
-- [Hackathon Chatbot](https://github.com/KbrPrmk/hackathon25-chatbot) — Web-based AI assistant built for Hackathon 2025
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">

@@ -30,7 +30,7 @@
 - 🎓 Data Science / ML practitioner building an end-to-end portfolio — from EDA to deployed apps
 - 🤖 Focused on **classification, regression, and NLP**, with recent work on full ML deployment pipelines (data leakage fixes, artifact saving, Gradio demos on Hugging Face Spaces)
 - 🔌 Also exploring **IoT & embedded systems** through circuit simulation (ESP32, sensors, MQTT)
-- 🌱 Currently sharpening skills in hyperparameter tuning (Optuna) and model ensembling (LightGBM/XGBoost)
+- 🌱 Currently sharpening skills in hyperparameter tuning and model ensembling (LightGBM/XGBoost)
 - 💬 Ask me about scikit-learn, XGBoost, Gradio deployment, or feature engineering on Turkish text data
 
 ---
